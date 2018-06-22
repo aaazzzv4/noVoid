@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/aaazzzv4/noVoid
+branches:
+- master
+projects:
+  noVoid:
+    path: ""
+...
