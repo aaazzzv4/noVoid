@@ -26,7 +26,7 @@ public function checkVoid(PlayerMoveEvent $event){
               case 1:
               $player->teleport(new Position($x, $y, $z, $level));
               $player->setHealth($player->getHealth(20));
-              $player->sendMessage("§d§l»§r§aYou were saved from the §eVOID §d§l«");
+              $player->sendMessage("§d§l» §r§aYou Were Saved From The §eVoid §d§l«");
               break;
               case 2:
               break;
